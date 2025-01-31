@@ -1,4 +1,5 @@
 # ESCAPE-35-SUPPLEMENTARY MATERIAL: dLCA of Lovastatin Production (KTB1 model)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 **Author**: ADA ROBINSON  
 **Date**: 2025-01-05  
@@ -61,10 +62,11 @@ After running the LCA, the following CSV files are produced, showing both **full
 - `dLCA_results_S4.csv` and `dLCA_results_S4_avg.csv`
 
 These CSVs contain **hourly ReCiPe endpoint scores** for each scenario, comparing:
-1. **(2) Fully Dynamic**: Hourly foreground × hourly background  
-2. **(3) Dynamic background + average foreground**  
-3. **(4) Single-Average** (both foreground and background)
+1. **Fully Dynamic**: Hourly foreground × hourly background  
+2. **Dynamic background + average foreground**  
+3. **Single-Average** (both foreground and background)
 
 ---
 
-**For more details on the methodology, model assumptions, and how to replicate or extend these calculations, please refer to the associated article** Will be published soon!
+**For more details on the methodology, model assumptions, and how to replicate or extend these calculations, please refer to the associated article**
+[![Status: Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
